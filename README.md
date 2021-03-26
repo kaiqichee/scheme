@@ -1,2 +1,2 @@
 # scheme
-All projects written in Scheme
+All projects written in Scheme/Racket
